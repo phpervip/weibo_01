@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh_CN">
 <head>
-    <meta charset="UTF-8">
-    <title>@yield('title','weibo App') - Laravel 新手入门教程 /title>
+  <meta charset="UTF-8">
+  <title>@yield('title','weibo App') - Laravel新手入门课程</title>
 </head>
 <body>
-    @yield('content')
+  @yield('content')
 </body>
 </html>
